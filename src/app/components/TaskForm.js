@@ -31,7 +31,7 @@ function TaskForm() {
                 id: uuid(),
             }))
         }
-        navigate('/')
+        navigate('/react-rtk-crud')
 
     }
     useEffect(() => {
